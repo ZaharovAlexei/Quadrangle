@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrangle", "Quadrangle\Quadrangle.csproj", "{BB9249D2-9DF2-4F18-9AB3-9B3EC0D6832F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB9249D2-9DF2-4F18-9AB3-9B3EC0D6832F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9249D2-9DF2-4F18-9AB3-9B3EC0D6832F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9249D2-9DF2-4F18-9AB3-9B3EC0D6832F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9249D2-9DF2-4F18-9AB3-9B3EC0D6832F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25BB6858-0EDC-48A3-9A38-0BFCBCF3B450}
+	EndGlobalSection
+EndGlobal
